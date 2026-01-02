@@ -12,10 +12,7 @@ This game emulates a classic pen & paper style airplanes game, where you face of
 - No external libraries required
 - Layered architecture
 
-## 🛠️ Tech
-- Python 3
-
-## 🔭 Requirements
+## 🛠️ Requirements
 - Python 3
 - PyCharm (recommended)
 
